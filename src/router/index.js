@@ -27,7 +27,7 @@ export default new Router({
                 {
                     path: '/tabs',
                     component: resolve => require(['../components/page/Tabs.vue'], resolve),
-                    meta: { title: 'tab选项卡' }
+                    meta: { title: '常用工具' }
                 },
                 {
                     path: '/form',
