@@ -14,7 +14,7 @@
 [更新日志]
 
 ## 捐赠
-![微信扫一扫](http://blog.gdfengshuo.com/images/weixin.jpg)
+![微信扫一扫](http://www.cnblogs.com/ccyuankai/p/9051727.html)
 
 ## 前言 ##
 该方案作为ump统一管理平台的框架，适用于公司内部使用的管理系统开发。基于vue.js,使用vue-cli脚手架快速生成项目目录，引用Element UI组件库，方便开发快速简洁好看的组件。在此感谢github上的大牛。
