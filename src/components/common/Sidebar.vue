@@ -68,22 +68,24 @@
                     //         }
                     //     ]
                     // },
-                    {
-                        icon: 'el-icon-star-on',
-                        index: 'charts',
-                        title: '打赏'
-                    }
+                 
                     // ,
                     // {
                     //     icon: 'el-icon-rank',
                     //     index: 'drag',
                     //     title: '拖拽列表'
                     // },
-                    // {
-                    //     icon: 'el-icon-warning',
-                    //     index: 'permission',
-                    //     title: '权限测试'
-                    // },
+                   
+                    {
+                        icon: 'el-icon-success',
+                        index: 'permission',
+                        title: '用户管理'
+                    },
+                    {
+                        icon: 'el-icon-star-on',
+                        index: 'charts',
+                        title: '打赏'
+                    }
                     // {
                     //     icon: 'el-icon-error',
                     //     index: '404',
